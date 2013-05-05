@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Config. Galaxy Note</string>
+    <string name="app_name">Configurações avançadas</string>
 
     <string name="category_screen_title">Tela</string>
     <string name="screen_colors_title">Cores</string>
@@ -30,4 +30,15 @@
     <string name="vibrator_intensity_summary_head">Define a intensidade da vibração</string>
     <string name="touchkey_timeout_title_head">Tempo limite da luz de fundo</string>
     <string name="touchkey_timeout_summary_head">Quanto tempo a luz de fundo irá ficar acesa depois do botão ser pressionado</string>
+    <string name="accelerometer_subcat_title">Acelerômetro</string>
+    <string name="use_accelerometer_calibration_title_head">Usar dados de calibração</string>
+    <string name="use_accelerometer_calibration_summary_head">Usar os valores de calibração do acelerômetro. Calibre após marcar isto!</string>
+    <string name="calibrate_accelerometer_title_head">Calibrar</string>
+    <string name="calibrate_accelerometer_summary_head">Ponha seu celular em uma superfície plana, e pressione isto para calibrar</string>
+    <string name="accelerometer_dialog_head">Calibração finalizada</string>
+    <string name="accelerometer_dialog_message">O sensor foi calibrado com sucesso</string>
+    <string name="category_dock_title">Dock</string>
+    <string name="dockaudio_subcat_title">Áudio</string>
+    <string name="use_dock_audio_title_head">Usar áudio USB do dock</string>
+    <string name="use_dock_audio_summary_head">Usar a saída de áudio passiva no dock</string>
 </resources>
