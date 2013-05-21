@@ -15,18 +15,19 @@
  -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string-array name="mdnie_scenario_entries">
-        <item>Caméra (Défaut)</item>
+        <item>CyanogenMod (Défaut)</item>
+        <item>UI</item>
         <item>Vidéo</item>
         <item>Vidéo chaude</item>
         <item>Vidéo froide</item>
-        <item>UI</item>
+        <item>Caméra</item>
         <item>Navigation</item>
         <item>Galerie</item>
         <item>VT</item>
     </string-array>
     <string-array name="mdnie_mode_entries">
-        <item>Standard (Défaut)</item>
         <item>Dynamique</item>
+        <item>Standard (Défaut)</item>
         <item>Naturel</item>
         <item>Vidéo</item>
     </string-array>
@@ -35,8 +36,8 @@
         <item>Inversé</item>
     </string-array>
     <string-array name="mdnie_outdoor_entries">
-        <item>Désactivé (Défaut)</item>
-        <item>Activé</item>
+        <item>Désactiver (Défaut)</item>
+        <item>Activer</item>
     </string-array>
     <string-array name="panel_gamma_entries">
         <item>2.2 (Défaut)</item>
