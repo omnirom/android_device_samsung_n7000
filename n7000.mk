@@ -34,10 +34,6 @@ TARGET_SCREEN_WIDTH := 800
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.sf.lcd_density=320
 
-# Packages
-PRODUCT_PACKAGES += \
-    DeviceSettings
-
 # Sensors
 PRODUCT_PACKAGES += \
     sensors.exynos4
