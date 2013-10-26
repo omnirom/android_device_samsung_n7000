@@ -26,13 +26,13 @@ BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := device/samsung/n7000/bluetooth
 
 # Inline kernel building
 TARGET_KERNEL_SOURCE := kernel/samsung/smdk4412
-TARGET_KERNEL_CONFIG := cyanogenmod_n7000_defconfig
+TARGET_KERNEL_CONFIG := custom_n7000_defconfig
 
 # assert
 TARGET_OTA_ASSERT_DEVICE := galaxynote,n7000,N7000,GT-N7000
 
-# We have a high res screen, use big font in recovery
-BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
+#TWRP
+DEVICE_RESOLUTION := 800x1280
 
 # Use the non-open-source parts, if they're present
 -include vendor/samsung/n7000/BoardConfigVendor.mk
