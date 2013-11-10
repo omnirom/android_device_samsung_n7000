@@ -1,9 +1,0 @@
-/boot       emmc        /dev/block/mmcblk0p5
-/recovery   emmc        /dev/block/mmcblk0p6
-/system     ext4        /dev/block/mmcblk0p9
-/data       ext4        /dev/block/mmcblk0p10
-/cache      ext4        /dev/block/mmcblk0p7
-/emmc       auto        /dev/block/mmcblk0p12
-/sdcard     auto        /devices/platform/s3c-sdhci.2/mmc_host/mmc1
-/usb-otg    vfat        /dev/block/sda1    /dev/block/sda
-
