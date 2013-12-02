@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6b8b61a3_60952c8a",
+        "filename": "system.prop",
+        "patchSetId": 2
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1000008
+      },
+      "writtenOn": "2013-12-02T17:55:47Z",
+      "side": 1,
+      "message": "I know I\u0027m being anal here, but this should be in a separate commit.\n\nFine otherwise.",
+      "revId": "372765c01064798aef3854c9073edaead9ced24b",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
