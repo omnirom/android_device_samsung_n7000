@@ -142,9 +142,6 @@
     <!-- Minimum screen brightness allowed by the power manager. -->
     <integer name="config_screenBrightnessDim">29</integer>
 
-    <!-- If this is true, key chords can be used to take a screen record on the device. -->
-    <bool name="config_enableScreenrecordChord">false</bool>
-
     <!-- Disable lockscreen translucent decor by default -->
     <bool name="config_enableLockScreenTranslucentDecor">true</bool>
 
