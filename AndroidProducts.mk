@@ -15,5 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_n7000.mk
+    $(LOCAL_DIR)/du_n7000.mk
 
