@@ -1,1 +1,1 @@
-add_lunch_combo omni_n7000-userdebug
+add_lunch_combo du_n7000-userdebug
