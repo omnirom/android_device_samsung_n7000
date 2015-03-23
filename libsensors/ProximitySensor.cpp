@@ -14,6 +14,7 @@
  * limitations under the License.
  */
 
+
 #include <fcntl.h>
 #include <errno.h>
 #include <math.h>
@@ -22,7 +23,7 @@
 #include <dirent.h>
 #include <sys/select.h>
 
-#include <linux/capella_cm3602.h>
+//#include <linux/capella_cm3602.h>
 
 #include <cutils/log.h>
 
