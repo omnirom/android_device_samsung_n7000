@@ -22,7 +22,7 @@
 #include <dirent.h>
 #include <sys/select.h>
 
-#include <linux/lightsensor.h>
+//#include <linux/lightsensor.h>
 
 #include <cutils/log.h>
 
