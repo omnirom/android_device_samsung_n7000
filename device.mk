@@ -45,7 +45,9 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/usr/keylayout/melfas-touchkey.kl:system/usr/keylayout/melfas-touchkey.kl \
     $(LOCAL_PATH)/usr/keylayout/samsung-keypad.kl:system/usr/keylayout/samsung-keypad.kl \
     $(LOCAL_PATH)/usr/keylayout/sec_key.kl:system/usr/keylayout/sec_key.kl \
-    $(LOCAL_PATH)/usr/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl
+    $(LOCAL_PATH)/usr/keylayout/sec_touchkey.kl:system/usr/keylayout/sec_touchkey.kl \
+    $(LOCAL_PATH)/usr/keylayout/sii9234_rcp.kl:system/usr/keylayout/sii9234_rcp.kl \
+    $(LOCAL_PATH)/configs/excluded-input-devices.xml:system/etc/excluded-input-devices.xml
 
 # Idc
 PRODUCT_COPY_FILES += \
@@ -54,7 +56,7 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/usr/idc/sec_e-pen.idc:system/usr/idc/sec_e-pen.idc \
     $(LOCAL_PATH)/usr/idc/sec_touchscreen.idc:system/usr/idc/sec_touchscreen.idc
 
-# GPS
+# Gps
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/init.gps.rc:root/init.gps.rc \
     $(LOCAL_PATH)/configs/gps.xml:system/etc/gps.xml

@@ -1,26 +1,32 @@
 [
     {
-        "remote": "omnirom",
+        "remote": "oi",
         "repository": "android_device_samsung_galaxys2-common",
         "target_path": "device/samsung/galaxys2-common",
-        "revision": "android-4.4"
+        "revision": "android-5.1"
     },
     {
         "remote": "omnirom",
         "repository": "android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "revision": "android-4.4"
+        "revision": "android-5.1"
     },
     {
-        "remote": "omnirom",
+        "remote": "oi",
         "repository": "android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "revision": "android-4.4"
+        "revision": "android-5.1"
     },
     {
+        "remote": "github",
+        "repository": "TheMuppets/proprietary_vendor_samsung",
+        "target_path": "vendor/samsung",
+        "revision": "cm-12.1"
+    },
+     {
         "remote": "omnirom",
         "repository": "android_packages_apps_SamsungServiceMode",
         "target_path": "packages/apps/SamsungServiceMode",
-        "revision": "android-4.4"
+        "revision": "android-5.1"
     }
 ]

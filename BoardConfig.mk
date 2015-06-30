@@ -33,6 +33,7 @@ TARGET_OTA_ASSERT_DEVICE := galaxynote,n7000,N7000,GT-N7000
 
 #TWRP
 DEVICE_RESOLUTION := 800x1280
+TW_THEME := portrait_mdpi
 
 # Use the non-open-source parts, if they're present
 -include vendor/samsung/n7000/BoardConfigVendor.mk
