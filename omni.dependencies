@@ -12,10 +12,10 @@
         "revision": "android-5.1"
     },
     {
-        "remote": "oi",
-        "repository": "android_hardware_samsung",
+        "remote": "github",
+        "repository": "duvall/android_hardware_samsung",
         "target_path": "hardware/samsung",
-        "revision": "android-5.1"
+        "revision": "android-5.1-clean"
     },
     {
         "remote": "github",
